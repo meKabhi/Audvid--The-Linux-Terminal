@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "170738288704",
+    "firebase_url": "https://linuxterminal-abhishek.firebaseio.com",
+    "project_id": "linuxterminal-abhishek",
+    "storage_bucket": "linuxterminal-abhishek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170738288704:android:8eb422e385f50f367c77a5",
+        "android_client_info": {
+          "package_name": "com.abhishek.Audvid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170738288704-q74csrr65hpa4n5umc2m9oflnb717sgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IlhSM3--jF5mnmOjf_Oq4ypslkpjezo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170738288704-q74csrr65hpa4n5umc2m9oflnb717sgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
